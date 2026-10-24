@@ -138,3 +138,4 @@ The application uses a simulated asynchronous service layer in `src/services/mem
 
 - **Backend Integration**: Currently operates with a robust client-side persistence service. In a future iteration, an enterprise REST/GraphQL backend with JWT floor-staff authentication can be plugged in by swapping `src/services/memberService.ts`.
 - **Multi-Airline Alliance Sync**: Can be extended to support SkyTeam / Star Alliance cross-carrier mileage redemption protocols.
+# end_to_end_Frequent_flyer_portal-
